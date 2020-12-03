@@ -1,0 +1,10 @@
+web sitesi linki: http://dovizhaber.cf/
+
+web sitesi video linki: https://drive.google.com/file/d/1C_GiZOv19slODNoEVhKeNlt_t53nCu44/view?usp=sharing
+
+Admin kullanıcı girişi: admin
+şifresi: 123
+
+web sitesini localde çalıştırmak için gerekli sql veritabanı dosyasını sunucunuzdaki phpmyadmin içine atın
+gerekli bağlantı.php kodlarını kendi bilgisayarınıza uyumlu bir şekilde değiştirin.
+
